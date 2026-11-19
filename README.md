@@ -3,7 +3,9 @@
 A standalone [MyGo](https://github.com/egoist/mygo) version of md-previewer. It edits Markdown source beside a live GitHub Flavored Markdown preview and supports file recovery, recent files, and an outline sidebar.
 
 ## Screenshot
-<img width="1220" height="820" alt="md-previewer-screenshot" src="https://github.com/user-attachments/assets/9d3a5282-e48a-4257-bea2-0e7633b707d6" />
+<img width="1241" height="836" alt="局部截取_20261119_111717" src="https://github.com/user-attachments/assets/5dce2b0c-b943-4e9b-8670-f0609a0e4766" />
+
+
 
 
 ## Features
